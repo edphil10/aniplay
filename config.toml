@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Welcome To My Blog'
-theme = "Niello"
+theme = "hinode"

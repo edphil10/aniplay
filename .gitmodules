@@ -1,0 +1,6 @@
+[submodule "hugo-theme-hinode"]
+	path = hugo-theme-hinode
+	url = https://github.com/markdumay/hugo-theme-hinode
+[submodule "themes/hinode"]
+	path = themes/hinode
+	url = https://github.com/markdumay/hugo-theme-hinode
